@@ -1,8 +1,8 @@
 # name: my-lottery-plugin
 # about: A plugin to conduct lottery draws in Discourse
 # version: 0.1
-# authors: Your Name
-# url: https://github.com/your-repo/my-lottery-plugin
+# authors: joo2017
+# url: https://github.com/joo2017/my-lottery-plugin
 
 enabled_site_setting :my_lottery_plugin_enabled
 
